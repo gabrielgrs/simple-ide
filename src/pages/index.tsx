@@ -1,7 +1,3 @@
-import type { NextPage } from 'next'
-
-const Home: NextPage = () => {
-  return <div>Simple IDE</div>
-}
+import Home from '../components/Home'
 
 export default Home
